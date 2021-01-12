@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-```
+
 <font color="#61d6d6">
                    -`                    
                   .o+`                   
@@ -34,4 +34,3 @@ Here are some ideas to get you started:
  `++:.                           `-/+/
  .`                                 `/
  </font>
-```
