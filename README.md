@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<font color="#61d6d6">
+```
                    -`                    
                   .o+`                   
                  `ooo/                   
@@ -33,4 +33,4 @@ Here are some ideas to get you started:
   `+sso+:-`                 `.-/+oso:
  `++:.                           `-/+/
  .`                                 `/
- </font>
+ ```
