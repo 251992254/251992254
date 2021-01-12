@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+```
                    -`                    
                   .o+`                   
                  `ooo/                   
@@ -32,3 +32,4 @@ Here are some ideas to get you started:
   `+sso+:-`                 `.-/+oso:
  `++:.                           `-/+/
  .`                                 `/
+```
