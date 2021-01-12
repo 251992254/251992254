@@ -34,3 +34,25 @@ Here are some ideas to get you started:
  `++:.                           `-/+/
  .`                                 `/
  ```
+ 
+<pre style="background: #000; color:cyan; width: 280px;">
+                   -`                    
+                  .o+`                   
+                 `ooo/                   
+                `+oooo:                  
+               `+oooooo:                 
+               -+oooooo+:                
+             `/:-:++oooo+:               
+            `/++++/+++++++:              
+           `/++++++++++++++:             
+          `/+++ooooooooooooo/`           
+         ./ooosssso++osssssso+`
+        .oossssso-````/ossssss+`
+       -osssssso.      :ssssssso.
+      :osssssss/        osssso+++.
+     /ossssssss/        +ssssooo/-
+   `/ossssso+/:-        -:/+osssso+-
+  `+sso+:-`                 `.-/+oso:
+ `++:.                           `-/+/
+ .`                                 `/
+  </pre>
