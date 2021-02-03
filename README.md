@@ -1,3 +1,6 @@
+![:name](https://count.getloli.com/get/@:name?theme=moebooru)
+[^_^]: https://count.getloli.com/
+
 ### Hi there 👋
 
 **xraynet/xraynet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
