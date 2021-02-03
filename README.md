@@ -1,4 +1,4 @@
-![:name](https://count.getloli.com/get/@:name?theme=moebooru)
+![:name](https://count.getloli.com/get/@demo?theme=moebooru)
 
 [^_^]: https://count.getloli.com/
 
